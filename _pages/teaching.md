@@ -1,12 +1,20 @@
 ---
 layout: page
 permalink: /teaching/
-title: teaching
-description: Materials for courses you taught. Replace this text with your description.
-nav: false
+title: Teaching
+description:
+nav: true
 nav_order: 6
 ---
 
-For now, this page is assumed to be a static description of your courses. You can convert it to a collection similar to `_projects/` so that you can have a dedicated page for each course.
+I am teaching the laboratories for the following undergrad courses at TUCN:
 
-Organize your courses by years, topics, or universities, however you like!
+- Computer Programming (1st year)
+- Data Structures and Algorithms (1st year)
+- Image Processing (3rd year)
+- Pattern Recognition (4th year)
+
+
+## Image Processing (3rd year, sem. 2)
+
+The practical sessions follow the [lab guide](/assets/pdf/IP_labs.pdf). Students should read the lab support before the actual lab session, so that they are accustomed to some of the concepts that will be discussed.
